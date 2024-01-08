@@ -153,7 +153,6 @@ PreparedStatement pst = null;
 					ee.printStackTrace();
 				}
 				
-			
 			}
 		});
 		btnUpdate.setBounds(60, 355, 89, 23);
